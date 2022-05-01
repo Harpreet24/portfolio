@@ -1,6 +1,13 @@
 title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+logo: /assets/img/9f1bc1fa-f3c7-45bb-9a75-374f11bd3d5b.jpg
+description: <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/harpreet-singh-040208144/">LinkedIn</a> |
+  <a href="https://github.com/Harpreet24/">GitHub</a>
+  
+  <br> 
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
